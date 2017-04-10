@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0dd36c59-aaf9-4477-a0d2-c0c9f620f0c7" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/gabrielfreire/app/App.java" afterPath="$PROJECT_DIR$/src/com/gabrielfreire/app/App.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/gabrielfreire/app/NeuralNetConstants.java" afterPath="$PROJECT_DIR$/src/com/gabrielfreire/app/NeuralNetConstants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="BackpropNeuralNetwork.iws" />
@@ -34,8 +32,8 @@
       <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.76954734" vertical-offset="51" max-vertical-offset="629">
-              <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+            <state vertical-scroll-proportion="0.6646091" vertical-offset="51" max-vertical-offset="646">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -524,12 +522,12 @@
       <created>1491829482862</created>
       <option name="number" value="Default" />
       <updated>1491829482862</updated>
-      <workItem from="1491829486896" duration="5010000" />
+      <workItem from="1491829486896" duration="5141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5010000" />
+    <option name="totallyTimeSpent" value="5141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -633,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76954734" vertical-offset="51" max-vertical-offset="629">
-          <caret line="25" column="74" selection-start-line="25" selection-start-column="74" selection-end-line="25" selection-end-column="74" />
+        <state vertical-scroll-proportion="0.6646091" vertical-offset="51" max-vertical-offset="646">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
           <folding />
         </state>
       </provider>
