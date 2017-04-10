@@ -46,12 +46,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ActivationFunction.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ActivationFunction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/ActivationFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding />
+            <state vertical-scroll-proportion="0.25304466" vertical-offset="0" max-vertical-offset="739">
+              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#397#398#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -66,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NeuralNetConstants.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NeuralNetConstants.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/NeuralNetConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25304466" vertical-offset="0" max-vertical-offset="739">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
               <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
               <folding />
             </state>
@@ -83,9 +88,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/App.java" />
         <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/Layer.java" />
-        <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/ActivationFunction.java" />
         <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/BackpropagationNeuralNetwork.java" />
         <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/NeuralNetConstants.java" />
+        <option value="$PROJECT_DIR$/src/com/gabrielfreire/app/ActivationFunction.java" />
       </list>
     </option>
   </component>
@@ -475,12 +480,12 @@
       <created>1491829482862</created>
       <option name="number" value="Default" />
       <updated>1491829482862</updated>
-      <workItem from="1491829486896" duration="161000" />
+      <workItem from="1491829486896" duration="475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="161000" />
+    <option name="totallyTimeSpent" value="475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
@@ -551,14 +556,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/ActivationFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/BackpropagationNeuralNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
@@ -569,9 +566,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/NeuralNetConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25304466" vertical-offset="0" max-vertical-offset="739">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/gabrielfreire/app/ActivationFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25304466" vertical-offset="0" max-vertical-offset="739">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
