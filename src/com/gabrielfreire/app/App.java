@@ -25,7 +25,7 @@ public class App {
             for(int i = 0; i < trainingResultsOR.length; i++){
                 float[] t = trainingData[i];
                 System.out.println("Num of iterations: " + (iteration + 1));
-                System.out.printf("%.1f, %.1f -->  %.3f\n", t[0], t[1], backpropagationNeuralNetwork.run(t)[0]);
+                System.out.printf("%.1f, %.1f --> %.3f\n", t[0], t[1], backpropagationNeuralNetwork.run(t)[0]);
             }
         }
     }
